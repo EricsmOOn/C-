@@ -1,0 +1,3 @@
+/Users/ericwong/Desktop/Book_Manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ericwong/Desktop/Book_Manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ericwong/Desktop/Book_Manager/cmake-build-debug/CMakeFiles/Book_Manager.dir
