@@ -41,6 +41,6 @@
 
 
 ## Contact me
-Blog:   [EricMoon](https://ericmoon.cn)
+Blog:   [EricMoon](https://0ne.club)
 
 Mail:   EricWongMoon@outlook.com
